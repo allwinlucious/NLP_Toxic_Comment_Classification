@@ -9,10 +9,6 @@ _Repo metadata_
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
-
-## License
-
-Released under [MIT](/LICENSE) by [@mewbot97](https://github.com/mewbot97).
 # Introduction
 <p style='text-align: justify;'> With increased accessibility to the internet, communication has crossed all the barriers. Nowadays, people can share thoughts whenever, wherever with the entire world through social media. These comments not only reach people who favor them but also to people who are against them, and thus, give rise to open debates. Since the explicit interaction is with a computer or smartphone and not with humans, people tend to forget proper behaviour while commenting and type abusive toxic comments. Many times, people misbehave with this technology by creating fake accounts to spread hate and negativity.
 As it is said, diamond cuts a diamond, we want to use technology to reduce the abuse of technology. This project is about creating a Toxic Comment Filter Bot using Data Science and Machine Learning methods, namely Natural Language Processing. NLP enables computers to process human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment.[1] The purpose of this bot is to identify threats and abusive comments, which are then categorized in six different categories based on the toxicity level. We want to enable this bot, in future, to be used as an extension with any social media to filter or hide out the toxic comments.</p>
@@ -58,5 +54,5 @@ References:<br />
 [2] https://www.tokenex.com/resource-center/what-is-tokenization<br />
 [3] https://neptune.ai/blog/data-augmentation-nlp<br />
 
-[try the web application](https://github.com/user/repository/subscription](https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)
+[![Streamlit app](https://github.com/user/repository/subscription](https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)
 
