@@ -1,7 +1,11 @@
 
 <h1><center>Toxic Comment Classification</center></h1>
 
-[![GitHub tag](https://img.shields.io/github/tag/mewbot97/NLP_Toxic_Comment_Classification?include_prereleases=&sort=semver&color=blue)](https://github.com/mewbot97/NLP_Toxic_Comment_Classification/releases/)
+
+_Repo metadata_
+
+
+[![GitHub release](https://img.shields.io/github/release/mewbot97/NLP_Toxic_Comment_Classification?include_prereleases=&sort=semver&color=blue)](https://github.com/mewbot97/NLP_Toxic_Comment_Classification/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
@@ -15,19 +19,11 @@ _Call-to-Action buttons_
 
 </div>
 
-## Documentation
-
-<div align="center">
-
-[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
-
-</div>
 
 
 ## License
 
 Released under [MIT](/LICENSE) by [@mewbot97](https://github.com/mewbot97).
-
 # Introduction
 <p style='text-align: justify;'> With increased accessibility to the internet, communication has crossed all the barriers. Nowadays, people can share thoughts whenever, wherever with the entire world through social media. These comments not only reach people who favor them but also to people who are against them, and thus, give rise to open debates. Since the explicit interaction is with a computer or smartphone and not with humans, people tend to forget proper behaviour while commenting and type abusive toxic comments. Many times, people misbehave with this technology by creating fake accounts to spread hate and negativity.
 As it is said, diamond cuts a diamond, we want to use technology to reduce the abuse of technology. This project is about creating a Toxic Comment Filter Bot using Data Science and Machine Learning methods, namely Natural Language Processing. NLP enables computers to process human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the speaker or writer’s intent and sentiment.[1] The purpose of this bot is to identify threats and abusive comments, which are then categorized in six different categories based on the toxicity level. We want to enable this bot, in future, to be used as an extension with any social media to filter or hide out the toxic comments.</p>
