@@ -1,6 +1,32 @@
 
 <h1><center>Toxic Comment Classification</center></h1>
 
+[![GitHub tag](https://img.shields.io/github/tag/mewbot97/NLP_Toxic_Comment_Classification?include_prereleases=&sort=semver&color=blue)](https://github.com/mewbot97/NLP_Toxic_Comment_Classification/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+
+_Call-to-Action buttons_
+
+<div align="center">
+
+
+
+
+
+</div>
+
+## Documentation
+
+<div align="center">
+
+[![view - Documentation](https://img.shields.io/badge/view-Documentation-blue?style=for-the-badge)](/docs/ "Go to project documentation")
+
+</div>
+
+
+## License
+
+Released under [MIT](/LICENSE) by [@mewbot97](https://github.com/mewbot97).
 
 # Introduction
 <p style='text-align: justify;'> With increased accessibility to the internet, communication has crossed all the barriers. Nowadays, people can share thoughts whenever, wherever with the entire world through social media. These comments not only reach people who favor them but also to people who are against them, and thus, give rise to open debates. Since the explicit interaction is with a computer or smartphone and not with humans, people tend to forget proper behaviour while commenting and type abusive toxic comments. Many times, people misbehave with this technology by creating fake accounts to spread hate and negativity.
