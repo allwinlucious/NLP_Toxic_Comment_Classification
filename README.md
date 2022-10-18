@@ -54,5 +54,5 @@ References:<br />
 [2] https://www.tokenex.com/resource-center/what-is-tokenization<br />
 [3] https://neptune.ai/blog/data-augmentation-nlp<br />
 
-[![Streamlit app](https://github.com/user/repository/subscription](https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)
+[![License](https://github.com/user/repository/subscription](https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)
 
