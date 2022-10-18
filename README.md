@@ -40,10 +40,12 @@ As compared to Computer Vision, where transformations are done on the go using d
 
 Github Repo:<br />
 https://github.com/mewbot97/NLP_Toxic_Comment_Classification/blob/main/Toxic%20Comment%20Classification.ipynb<br />
+
+
 References:<br />
 [1] https://www.ibm.com/cloud/learn/natural-language-processing<br />
 [2] https://www.tokenex.com/resource-center/what-is-tokenization<br />
 [3] https://neptune.ai/blog/data-augmentation-nlp<br />
 
-
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
 
