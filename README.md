@@ -8,6 +8,8 @@ _Repo metadata_
 [![GitHub release](https://img.shields.io/github/release/mewbot97/NLP_Toxic_Comment_Classification?include_prereleases=&sort=semver&color=blue)](https://github.com/mewbot97/NLP_Toxic_Comment_Classification/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 [![License](https://avatars.githubusercontent.com/u/45109972?s=200&v=4)](https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)
+<img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="200" height="200">(https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)
+
 
 
 # Introduction
