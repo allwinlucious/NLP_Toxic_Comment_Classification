@@ -43,6 +43,8 @@ As it is said, diamond cuts a diamond, we want to use technology to reduce the a
 Moreover, it can be seen in class distribution, the amount of entries per class is still imbalanced, i.e., presence of very few ‘interesting’ events (toxic/hate comments in our case). Most of the ML algorithms do not work well with imbalanced datasets. Some of the techniques (or combinations) that can be tried out to handle imbalanced dataset are using the correct Evaluation Matrix, resampling the training set, resample with different ratios, cluster the abundant class and various Data Augmentation techniques.
 As compared to Computer Vision, where transformations are done on the go using data generators, data augmentation should be done carefully in  NLP due to the grammatical structure of the text. Back translation, EDA (Easy Data Augmentation), NLP Albumentation, NLP Aug are few methods that can be used [3]. Future possibilities for the Toxic Comment Filter Bot includes enabling it as an extension for various social media platforms such as twitter, facebook etc. Moreover, in future, it  can be configured to work in real time to avoid people from even posting toxic comments.</p>
 <br />
+
+
 https://user-images.githubusercontent.com/15308488/196531492-4bb214fd-a9d8-4f56-88bc-6e917a594edb.webm
 
 
@@ -56,8 +58,5 @@ References:<br />
 [3] https://neptune.ai/blog/data-augmentation-nlp<br />
 
 
-
-
-https://user-images.githubusercontent.com/15308488/196532485-3fe5c6fd-1397-4781-9e65-ba324de48c12.mp4
 
 
