@@ -7,6 +7,7 @@ _Repo metadata_
 
 [![GitHub release](https://img.shields.io/github/release/mewbot97/NLP_Toxic_Comment_Classification?include_prereleases=&sort=semver&color=blue)](https://github.com/mewbot97/NLP_Toxic_Comment_Classification/releases/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![License](https://github.com/user/repository/subscription](https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)(#webapp)
 
 
 # Introduction
@@ -54,5 +55,5 @@ References:<br />
 [2] https://www.tokenex.com/resource-center/what-is-tokenization<br />
 [3] https://neptune.ai/blog/data-augmentation-nlp<br />
 
-[![License](https://github.com/user/repository/subscription](https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)
+
 
