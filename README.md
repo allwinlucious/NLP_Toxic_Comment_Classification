@@ -4,7 +4,7 @@
 click to run webapp
 
 
-[<img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="50" height="50">](https://mewbot97-nlp-toxic-comment-classification-webapp-rsxwz6.streamlitapp.com)
+[<img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" width="50" height="50">](https://allwinlucious-nlp-toxic-comment-classification-webapp-ztpqce.streamlitapp.com/)
 
 
 
